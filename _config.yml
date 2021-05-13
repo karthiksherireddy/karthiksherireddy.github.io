@@ -14,11 +14,11 @@ author: Karthik Reddy
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: "aboutme"
+  Products:
+    - One-on-One Tutoring Services: "https://beautifuljekyll.com"
+    - Comprehensive Test Prep Packages: "https://www.markdowntutorial.com/"
+  Calendar: "https://deanattali.com"
 
 # --- Logo --- #
 
